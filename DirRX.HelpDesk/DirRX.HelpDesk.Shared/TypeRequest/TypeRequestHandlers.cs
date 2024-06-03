@@ -7,8 +7,4 @@ using DirRX.HelpDesk.TypeRequest;
 
 namespace DirRX.HelpDesk
 {
-  partial class TypeRequestSharedHandlers
-  {
-
-  }
 }

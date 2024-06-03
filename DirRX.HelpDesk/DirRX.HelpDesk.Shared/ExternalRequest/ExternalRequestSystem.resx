@@ -58,13 +58,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Примечание</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Внещние обращения</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
+  </data>
+  <data name="Control_9b7dcbfe4fd84d1ebb3df32f0b255f87_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ControlGroup_429f720c1e0643de9bc933e21ee4c31a" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ControlGroup_275ea5adcd0a47ceab2dea564370404d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_9b7dcbfe4fd84d1ebb3df32f0b255f87" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_ee3502f63227445091f732434fe0537f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_9c761fb020be42f097e17486bc7a95fb_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_9c761fb020be42f097e17486bc7a95fb" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_89c327ccd9f2433e90a1091f4f6eced4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_b5c2cfebaeb34af7982d95f613058573_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_b5c2cfebaeb34af7982d95f613058573" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ControlGroup_6d113d971e514a3f9a2ea285fda6a191" xml:space="preserve">
+    <value />
   </data>
 </root>

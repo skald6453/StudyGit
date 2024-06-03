@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using Sungero.Core;
 using Sungero.CoreEntities;
-using DirRX.HelpDesk.TypeRequest;
+using Sungero.Workflow;
 
-namespace DirRX.HelpDesk
+namespace DirRX.HelpDesk.Server.HelpDeskBlocks
 {
 }
